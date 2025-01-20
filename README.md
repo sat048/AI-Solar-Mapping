@@ -4,6 +4,10 @@
 
 SolarVista is an innovative platform designed to empower NGOs, governments, and energy planners by providing tools to identify optimal locations for solar power installations in underserved communities. The project leverages satellite data and real-time community input to map regions with high solar energy potential, ensuring a sustainable and impactful solution to energy accessibility.
 
+
+https://github.com/user-attachments/assets/e7299011-6385-423a-a2c7-17cfe2fa9570
+
+
 ---
 
 ## Features
